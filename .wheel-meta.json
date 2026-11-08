@@ -1,0 +1,22 @@
+{
+  "wheel_id": 830,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-111",
+  "project": "pool-retaining-walls-maintenance-31c3272ac365f26fdfba061dafcce3",
+  "parent_t1_ref": "poolretainingwallsbrisbane-155",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls maintenance",
+  "intended_url": "http://pool-retaining-walls-maintenance-31c3272ac365f26fdfba061dafcce3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2d16a569325c2511",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/pool-retaining-walls-0cf7e3d0a385321c6a045aa63d91f705c18388c8/",
+      "anchor": "Pool Retaining Walls: for Sloping Sites",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
